@@ -1,4 +1,6 @@
 # WCAG Audit 
+De instructies van deze opdracht staan in [INSTRUCTIONS](https://github.com/fdnd-task/wcag-audit/blob/main/docs/INSTRUCTIONS.md).
+
 
 ## Doel
 
